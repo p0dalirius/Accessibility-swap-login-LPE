@@ -1,7 +1,7 @@
 # Accessibility-swap-login-LPE
 
 <p align="center">
-  Swap a Windows accessibility binary (Magnify.exe, sethc.exe, Utilman.exe, ...) for cmd.exe inside a VirtualBox .vdi disk to get a SYSTEM command prompt from the login screen.
+  Swap a Windows accessibility binary (`Magnify.exe`, `sethc.exe`, `Utilman.exe`, ...) for `cmd.exe` inside a VirtualBox `.vdi` disk to get a `SYSTEM` command prompt from the login screen.
   <br>
   <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/p0dalirius/Accessibility-swap-login-LPE">
   <a href="https://twitter.com/intent/follow?screen_name=podalirius_" title="Follow"><img src="https://img.shields.io/twitter/follow/podalirius_?label=Podalirius&style=social"></a>
